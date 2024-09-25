@@ -9,7 +9,7 @@
 * Сделайте прогноз движения актива на основе экспоненциального скользящего среднего на 5 периодов вперед.
 * Сделайте выводы по проделанной работе и опипшите их.
 
-'''python import pandas as pd
+```python import pandas as pd
 import matplotlib.pyplot as plt
 
 # Загрузка данных временного ряда
@@ -46,5 +46,5 @@ decomposition.plot()
 plt.xlabel("Дата")
 plt.suptitle("Разложение временного ряда")
 plt.show()
-'''
+```
 
