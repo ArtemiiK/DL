@@ -16,7 +16,7 @@
 Визуализируйте результаты прогнозирования.
 Сделайте выводы о применимости различных авторегрессионных моделей к ценам криптовалют.
 
-```
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
